@@ -20,7 +20,7 @@ avatar: /assets/image/avatar.png
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://forever-jekyll.github.io
+url: https://ethan-zhang-blog.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -50,7 +50,7 @@ footer_links:
     icon: fa fa-twitter-square
 
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/ethan-zhang-blog
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
