@@ -27,9 +27,9 @@ The object-apply pattern in Scala offers several key advantages:
 The apply method can return:
 - The exact class type
 - A subtype or trait implementation
-- A wrapped type (like Option, Either, or in your case, Resource[IO, Server])
+- A wrapped type (like `Option`, `Either`)
 - Different types based on parameters
-- In the code agove , MyOjb.apply() returns F, not an MyOjb instance. With new, you're locked into creating an instance of that specific class.
+- In the code above , `MyObj.apply()` returns `F`, not a `MyObj` instance. With new, you're locked into creating an instance of that specific class.
 
 ### 2. Factory Pattern Built-In
  
